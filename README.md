@@ -26,9 +26,8 @@ Note: Depending on the PostgreSQL database service you choose, you may need to c
 ## How to Run
 1. Ensure PostgreSQL is installed and running on your machine.
 2. Open a SQL client or PostgreSQL command line interface.
-3. Copy the provided SQL script into the SQL client or command line interface.
-4. Execute the script to create tables and import data.
-5. Run individual SQL queries to perform data analysis tasks.
+3. Copy and execute the provided SQL script database_setup_script.sql to create tables and import data.
+4. After setting up the database, you can run the combined queries in the combined_queries.sql script to perform data analysis tasks.
 
 ## Credits
 
