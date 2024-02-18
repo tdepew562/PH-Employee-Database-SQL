@@ -18,7 +18,10 @@ The script is designed to handle the Pewlett Hackard employee database. It creat
 ## Requirements
 This project requires access to PostgreSQL database management system to execute the SQL queries. Ensure that you have PostgreSQL installed on your local machine or use an online PostgreSQL database service.
 
-[PostgreSQL](https://www.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+
+Note: Depending on the PostgreSQL database service you choose, you may need to create an account to access their services.
+
 
 ## How to Run
 1. Ensure PostgreSQL is installed and running on your machine.
